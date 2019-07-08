@@ -1,0 +1,500 @@
+   55  python3 partition.py 
+   56  python3 partition.py 
+   57  python3 partition.py 
+   58  python3 partition.py 
+   59  python3 partition.py 
+   60  python3 partition.py 
+   61  python3 partition.py 
+   62  python3 partition.py 
+   63  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 57640 /Users/dschless/source/hw1/partition.py 
+   64  python3 partition.py 
+   65  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 57690 /Users/dschless/source/hw1/partition.py 
+   66  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 57952 /Users/dschless/source/hw1/partition.py 
+   67  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 57961 /Users/dschless/source/hw1/partition.py 
+   68  python3 partition.py 
+   69  python3 partition.py 
+   70  python3 partition.py 
+   71  python3 partition.py 
+   72  python3 partition.py 
+   73  python3 partition.py 
+   74  python3 partition.py 
+   75  python3 partition.py 
+   76  python3 partition.py 
+   77  python3 partition.py 
+   78  python3 partition.py 
+   79  python3 partition.py 
+   80  python3 partition.py 
+   81  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 58107 /Users/dschless/source/hw1/partition.py 
+   82  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 58111 /Users/dschless/source/hw1/partition.py 
+   83  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 58216 /Users/dschless/source/hw1/partition.py 
+   84  python3 partition.py 
+   85  python3 partition.py 
+   86  python3 partition.py 
+   87  python3 partition.py 
+   88  python3 partition.py 
+   89  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 58264 /Users/dschless/source/hw1/partition.py 
+   90  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 58271 /Users/dschless/source/hw1/partition.py 
+   91  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 58271 /Users/dschless/source/hw1/partition.py 
+   92  python3 partition.py 
+   93  python3 partition.py 
+   94  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 58380 /Users/dschless/source/hw1/partition.py 
+   95  python3 partition.py 
+   96  python3 partition.py 
+   97  python3 partition.py 
+   98  python3 partition.py 
+   99  python3 partition.py 
+  100  python3 btree.py 
+  101  python3 btree.py 
+  102  python3 btree.py 
+  103  python3 btree.py 
+  104  python3 btree.py 
+  105  python3 btree.py 
+  106  python3 btree.py 
+  107  python3 btree.py 
+  108  python3 btree.py 
+  109  python3 btree.py 
+  110  python3 btree.py 
+  111  python3 btree.py 
+  112  python3 btree.py 
+  113  python3 btree.py 
+  114  python3 btree.py 
+  115  python3 btree.py 
+  116  python3 btree.py 
+  117  python3 btree.py 
+  118  python3 btree.py 
+  119  python3 btree.py 
+  120  python3 btree.py 
+  121  python3 btree.py 
+  122  python3 btree.py 
+  123  python3 btree.py 
+  124  python3 btree.py 
+  125  python3 btree.py 
+  126  python3 btree.py 
+  127  python3 btree.py 
+  128  python3 btree.py 
+  129  python3 btree.py 
+  130  python3 btree.py 
+  131  python3 btree.py 
+  132  python3 btree.py 
+  133  python3 btree.py 
+  134  python3 btree.py 
+  135  python3 btree.py 
+  136  python3 btree.py 
+  137  python3 btree.py 
+  138  python3 btree.py 
+  139  python3 btree.py 
+  140  python3 btree.py 
+  141  python3 btree.py 
+  142  python3 btree.py 
+  143  python3 btree.py 
+  144  python3 btree.py 
+  145  python3 btree.py 
+  146  python3 btree.py 
+  147  python3 btree.py 
+  148  python3 btree.py 
+  149  python3 btree.py 
+  150  python3 btree.py 
+  151  python3 btree.py 
+  152  python3 btree.py 
+  153  python3 btree.py 
+  154  python3 btree.py 
+  155  python3 btree.py 
+  156  python3 btree.py 
+  157  python3 btree.py 
+  158  python3 btree.py 
+  159  python3 btree.py 
+  160  python3 btree.py 
+  161  python3 btree.py 
+  162  python3 btree.py 
+  163  python3 btree.py 
+  164  python3 btree.py 
+  165  python3 btree.py 
+  166  python3 btree.py 
+  167  python3 btree.py 
+  168  python3 btree.py 
+  169  python3 btree.py 
+  170  python3 btree.py 
+  171  python3 btree.py 
+  172  python3 btree.py 
+  173  python3 btree.py 
+  174  python3 btree.py 
+  175  python3 btree.py 
+  176  python3 btree.py 
+  177  python3 btree.py 
+  178  python3 btree.py 
+  179  python3 btree.py 
+  180  python3 btree.py 
+  181  python3 btree.py 
+  182  python3 btree.py 
+  183  python3 btree.py 
+  184  python3 btree.py 
+  185  python3 btree.py 
+  186  python3 btree.py 
+  187  python3 btree.py 
+  188  python3 btree.py 
+  189  python3 btree.py 
+  190  python3 btree.py 
+  191  python3 btree.py 
+  192  python3 btree.py 
+  193  python3 btree.py 
+  194  python3 btree.py 
+  195  python3 btree.py 
+  196  python3 btree.py 
+  197  python3 btree.py 
+  198  python3 btree.py 
+  199  python3 btree.py 
+  200  python3 btree.py 
+  201  python3 btree.py 
+  202  python3 btree.py 
+  203  python3 btree.py 
+  204  python3 btree.py 
+  205  python3 btree.py 
+  206  python3 btree.py 
+  207  python3 btree.py 
+  208  python3 btree.py 
+  209  python3 btree.py 
+  210  python3 btree.py 
+  211  python3 btree.py 
+  212  python3 btree.py 
+  213  python3 btree.py 
+  214  python3 btree.py 
+  215  python3 btree.py 
+  216  python3 btree.py 
+  217  python3 btree.py 
+  218  python3 btree.py 
+  219  python3 btree.py 
+  220  python3 btree.py 
+  221  python3 btree.py 
+  222  python3 btree.py 
+  223  python3 btree.py 
+  224  python3 btree.py 
+  225  python3 btree.py 
+  226  python3 btree.py 
+  227  python3 btree.py 
+  228  python3 btree.py 
+  229  python3 btree.py 
+  230  python3 btree.py 
+  231  python3 btree.py 
+  232  python3 btree.py 
+  233  python3 btree.py 
+  234  python3 btree.py 
+  235  python3 btree.py 
+  236  python3 btree.py 
+  237  python3 btree.py 
+  238  python3 btree.py 
+  239  python3 btree.py 
+  240  python3 btree.py 
+  241  python3 btree.py 
+  242  python3 btree.py 
+  243  python3 btree.py 
+  244  python3 btree.py 
+  245  python3 btree.py 
+  246  python3 btree.py 
+  247  python3 btree.py 
+  248  python3 btree.py 
+  249  python3 btree.py 
+  250  python3 btree.py 
+  251  python3 btree.py 
+  252  python3 btree.py 
+  253  python3 btree.py 
+  254  python3 btree.py 
+  255  python3 btree.py 
+  256  python3 btree.py 
+  257  python3 btree.py 
+  258  python3 btree.py 
+  259  python3 btree.py 
+  260  python3 btree.py 
+  261  which pip
+  262  which pip3
+  263  pip3 install matplotlib numpy
+  264  python3 btree.py 
+  265  python3 btree.py 
+  266  python3 btree.py 
+  267  python3 btree.py 
+  268  python3 btree.py 
+  269  python3 btree.py 
+  270  python3 midterm.py 
+  271  python3 midterm.py 
+  272  python3 midterm.py 
+  273  python3 midterm.py 
+  274  python3 midterm2.py 
+  275  python3 midterm2.py 
+  276  python3 midterm2.py 
+  277  python3 midterm3.py 
+  278  python3 midterm3.py 
+  279  python3 midterm3.py 
+  280  python3 midterm3.py 
+  281  python3 midterm3.py 
+  282  python3 midterm3.py 
+  283  python3
+  284  python3
+  285  python3 hw4.py 
+  286  python3 hw4.py 
+  287  python3 hw4.py 
+  288  python3 hw4.py 
+  289  python3 hw4.py 
+  290  python3 hw4.py 
+  291  python3 hw4.py 
+  292  python3 hw4.py 
+  293  python3 hw4.py 
+  294  python3 hw4.py 
+  295  python3 hw4.py 
+  296  python3 hw4.py 
+  297  python3 hw4.py 
+  298  python3 hw4.py 
+  299  python3 hw4.py 
+  300  python3 hw4.py 
+  301  python3 hw4.py 
+  302  python3 hw4.py 
+  303  python3 hw4.py 
+  304  python3 hw4.py 
+  305  python3 hw4.py 
+  306  python3 hw4.py 
+  307  python3 hw4.py 
+  308  python3 hw4.py 
+  309  python3 hw4.py 
+  310  python3 hw4.py 
+  311  python3 hw4.py 
+  312  python3 hw4.py 
+  313  python3 hw4.py 
+  314  python3 hw4.py 
+  315  python3 hw4.py 
+  316  python3 hw4.py 
+  317  python3 hw4.py 
+  318  python3 hw4.py 
+  319  python3 hw4.py 
+  320  python3 hw4.py 
+  321  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 52111 /Users/dschless/source/hw1/hw4.py 
+  322  cd /Users/dschless/source/hw1 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/dschless/.vscode/extensions/ms-python.python-2019.5.18875/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 52123 /Users/dschless/source/hw1/hw4.py 
+  323  python3 midterm3.py 
+  324  python3 hw4.py 
+  325  python3 hw4.py 
+  326  python3 hw4.py 
+  327  python3 hw4.py 
+  328  python3 hw4.py 
+  329  python3 hw4.py 
+  330  python3 hw4.py 
+  331  python3 hw4.py 
+  332  python3 hw4.py 
+  333  python3 hw4.py 
+  334  python3 hw4.py 
+  335  python3 hw4.py 
+  336  python3 hw4.py 
+  337  python3 hw4.py 
+  338  python3 hw4.py 
+  339  python3 hw4.py 
+  340  python3 hw4.py 
+  341  python3 hw4.py 
+  342  python3 hw4.py 
+  343  python3 hw4.py 
+  344  python3 hw4.py 
+  345  python3 hw4.py 
+  346  python3 hw4.py 
+  347  python3 hw4.py 
+  348  python3 hw4.py 
+  349  python3 hw4.py 
+  350  python3 hw4.py 
+  351  python3 hw4.py 
+  352  python3 hw4.py 
+  353  python3 hw4.py 
+  354  python3 hw4.py 
+  355  python3 hw4.py 
+  356  python3 hw4.py 
+  357  python3 hw4.py 
+  358  python3 hw4.py 
+  359  python3 hw4.py 
+  360  python3 hw4.py 
+  361  python3 hw4.py 
+  362  python3 hw4.py 
+  363  python3 hw4.py 
+  364  python3 hw4.py 
+  365  python3 hw4.py 
+  366  python3 hw4.py 
+  367  python3 hw4.py 
+  368  python3 hw4.py 
+  369  python3 hw4.py 
+  370  python3 hw4.py 
+  371  python3 hw4.py 
+  372  python3 hw4.py 
+  373  python3 hw4.py 
+  374  python3
+  375   . /Users/dschless/.local/share/virtualenvs/project-IuduX4k7/bin/activate
+  376  spectralcluster
+  377  deactivate
+  378  brew update && brew upgrade
+  379  cd ~/dev
+  380  mkdir dev
+  381  cd de
+  382  cd source/
+  383  ls
+  384  mkdir project
+  385  cd project/
+  386  ls
+  387  pipenv .
+  388  pipenv install wq2012/awesome-diarization
+  389  pipenv install spectralcluster
+  390  pipenv shell
+  391  python3 align.py 
+  392  python3 align.py 
+  393  python3 align.py 
+  394  python3 align.py 
+  395  python3 align.py 
+  396  python3 align.py 
+  397  python3 align.py 
+  398  python3 align.py 
+  399  python3 align.py 
+  400  python3 align.py 
+  401  python3 align.py 
+  402  python3 align.py 
+  403  python3 align.py 
+  404  python3 align.py 
+  405  python3 align.py 
+  406  python3 align.py 
+  407  python3 align.py 
+  408  python3 align.py 
+  409  python3 align.py 
+  410  python3 align.py 
+  411  python3 align.py 
+  412  python3 align.py 
+  413  python3 align.py 
+  414  python3 align.py 
+  415  python3 align.py 
+  416  python3 align.py 
+  417  python3 align.py 
+  418  python3 align.py 
+  419  python3 global_align.py 
+  420  python3 global_align.py 
+  421  python3 global_align.py 
+  422  python3 global_align.py 
+  423  python3 global_align.py 
+  424  python3 global_align.py 
+  425  python3 global_align.py 
+  426  python3 global_align.py 
+  427  python3 global_align.py 
+  428  python3 global_align.py 
+  429  python3 global_align.py 
+  430  python3 global_align.py 
+  431  python3 global_align.py 
+  432  python3 align.py 
+  433  python3 lip.py 
+  434  python3 lip.py 
+  435  python3 lip.py 
+  436  python3 lip.py 
+  437  python3 lip.py 
+  438  python3 lip.py 
+  439  python3 lip.py 
+  440  python3 lip.py 
+  441  python3 lip.py 
+  442  python3 lip.py 
+  443  python3 lip.py 
+  444  python3 lip.py 
+  445  python3 lip.py 
+  446  python3 lip.py 
+  447  python3 lip.py 
+  448  python3 lip.py 
+  449  python3 lip.py 
+  450  python3 lip.py 
+  451  python3 lip.py 
+  452  python3 lip.py 
+  453  python3 lip.py 
+  454  python3 lip.py 
+  455  python3 lip.py 
+  456  python3 lip.py 
+  457  python3 lip.py 
+  458  python3 lip.py 
+  459  python3 lip.py 
+  460  python3 lip.py 
+  461  python3 lip.py 
+  462  python3 lip.py 
+  463  python3 lip.py 
+  464  python3 lip.py 
+  465  python3 lip.py 
+  466  python3 lip.py 
+  467  python3 lip.py 
+  468  python3 lip.py 
+  469  python3 lip.py 
+  470  python3 lip.py 
+  471  python3 lip.py 
+  472  python3 lip.py 
+  473  python3 lip.py 
+  474  python3 lip.py 
+  475  python3 lip.py 
+  476  python3 lip.py 
+  477  python3 lip.py 
+  478  python3 lip.py 
+  479  python3 lip.py 
+  480  python3 lip.py 
+  481  python3 lip.py 
+  482  python3 lip.py 
+  483  python3 lip.py 
+  484  python3 lip.py 
+  485  python3 lip.py 
+  486  conda clean-packages
+  487  conda -h
+  488  conda clean --packages
+  489  conda install libsodium
+  490  conda search libzmq
+  491  conda search *libzmq*
+  492  conda remove zeromq
+  493  conda install zeromq
+  494  jupyter -hg
+  495  jupyter -h
+  496  jupyter labextension -h
+  497  jupyter labextension install @jupyterlab/toc
+  498  conda install nodjs
+  499  conda install nodejs
+  500  jupyter labextension install @jupyterlab/toc
+  501  conda install numpy
+  502  conda list --help
+  503  conda list
+  504  conda list --help
+  505  conda list -n SpectralClustering
+  506  conda install sklearn scipy
+  507  conda install -y scipy
+  508  conda install -y scikit-learn
+  509  conda install anaconda
+  510  conda update --al
+  511  conda update --all
+  512  conda
+  513  conda list -n SpectralClustering
+  514  conda list --help
+  515  conda create --help
+  516  conda -h
+  517  conda info --help
+  518  conda info
+  519  ls
+  520  conda env export > environment.yml
+  521  cat environment.yml 
+  522  ls
+  523  python3 main.py 
+  524  python3 main.py 
+  525  python3 main.py 
+  526  python3 main.py 
+  527  python3 main.py 
+  528  conda install -y 
+  529  conda install -y pyannote.audio
+  530  conda search pyannote.audio
+  531  conda search pyannote
+  532  conda search pyannote*
+  533  conda search *pyannote*
+  534  conda install -h
+  535  pip install pyannote.audio
+  536  conda search torch
+  537  pip install pyannote.audio --force
+  538  pip --help
+  539  pip install --help
+  540  pip install pyannote.audio --ignore-requires-python
+  541  pip install pyannote.audio  --no-warn-conflicts 
+  542  pip search chocolate
+  543  conda search *chocolate*
+  544  pip install git+https://github.com/AIworx-Labs/chocolate@master
+  545  pip install pyannote.audio  --no-warn-conflicts 
+  546  pip install pyannote.audio --ignore-requires-python
+  547  pip install torch
+  548* pip install pyannote.audio --ignore-requires-python --
+  549  pip install pyannote.audio  --no-warn-conflicts 
+  550  pip install --help
+  551  pip install pyannote.audio  --no-warn-conflicts --pre
+  552  pip install pyannote.audio  --no-warn-conflicts --no-deps
+  553  pip install pyannote.audio  --no-warn-conflicts 
+  554  history > deps.txt

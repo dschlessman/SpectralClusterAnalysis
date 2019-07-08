@@ -1,0 +1,11 @@
+[submodule "lib/SpectralCluster"]
+	path = lib/SpectralCluster
+	url = git@github.com:dschlessman/SpectralCluster.git
+	branch = dev
+[submodule "lib/pyannote-audio"]
+	path = lib/pyannote-audio
+	url = git@github.com:dschlessman/pyannote-audio.git
+	branch = develop
+[submodule "lib/pyannote-metrics"]
+	path = lib/pyannote-metrics
+	url = git@github.com:dschlessman/pyannote-metrics.git
